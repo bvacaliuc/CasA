@@ -33,5 +33,5 @@ This is a long-term project.  Think decades, not weeks. What you contribute over
 
 ## References
 
- * Stephen Tzikas, "Challenges in Developing an Amateur Radio Astronomy Database", 02/01/2017 SARA Article
+ * Stephen Tzikas, "Challenges in Developing an Amateur Radio Astronomy Database", 02/01/2018 SARA Article
 
